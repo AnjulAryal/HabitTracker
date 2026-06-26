@@ -1,7 +1,7 @@
 export default function Form() {
 
     return (
-        <form className="flex flex-col justify-center max-w-lg mx-auto p-10 space-y-6">
+        <form className="flex flex-col justify-center max-w-lg mx-auto p-10 space-y-6 h-[80vh]">
             <div>
                 <label htmlFor="full-name-small" className="mb-2 text-slate-900 dark:text-slate-50 font-bold text-sm inline-block">Habit name
                 </label>
