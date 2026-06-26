@@ -6,7 +6,9 @@ function App() {
   return (
     <>
       <Header />
-      <Form />
+      <div className="h-[80vh] ">
+        <Form />
+      </div>
       <Footer />
     </>
   )
